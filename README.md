@@ -38,17 +38,30 @@ NoData = 6
 ```
 
 ## API Version 1.0
-```
-KombinasiProdukTempat_Data
-KombinasiProduk_Data
-PemilikProduk_Data
-ProdukKategori_Data
-Produk_Data
-StokProduk
-StokProdukTempat_Data
-StokProduk_Data
-Warna_Data
-```
+Function | Description 
+--- | --- 
+AtributProduk_Data | Menampikan data master atribut produk
+JenisPembayaran_Data | Menampilkan data master jenis pembayaran
+KombinasiProdukTempat_Data | Menampilkan kombinasi produk berdasarkan tempat
+KombinasiProduk_Data | Menampilkan data master kombinasi produk
+PemilikProduk_Data | Menampilkan data master pemilik produk
+ProdukKategori_Data | Menampilkan data master kategori produk
+Produk_Data | Menampilkan data master produk
+StokProduk | Menampilkan stok produk
+StokProdukTempat_Data | Menampilkan data master stok produk berdasarkan tempat
+StokProduk_Data | Menampilkan data master stok produk
+Warna_Data | Menampilkan data master warna
+
+## Kamus Bahasa
+Istilah | Penjelasan
+--- | --- 
+Store | Store merupakan data client dari WIT. Indonesia
+Tempat | Satu Store dapat memiliki banyak Tempat. Contoh : Cabang 1, Cabang 2, Event 1, Gudang, dll
+Pemilik Produk | Jika Store menjual barang dari beberapa Brand maka Brand tersebut diisi pada bagian Pemilik Produk
+Produk | Produk produk yang dijual oleh Store
+Atribut Produk | Produk memiliki Atribut Produk. Contoh : S, M, L, 37 - Hitam, 38 - Hitam
+Kombinasi Produk | Kombinasi Produk adalah gabungan dari Produk dan Atribut Produk. Contoh : Sepatu A (37 - Hitam)
+Stok Produk | Stok Produk adalah gabungan dari Kombinasi Produk dan Tempat. Contoh : Sepatu A (37 - Hitam) di Gudang Quantity 10
 
 # EXAMPLE
 
