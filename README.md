@@ -38,7 +38,9 @@ StokProduk_Data
 Warna_Data
 ```
 
-# AtributProduk_Data
+# EXAMPLE
+
+## AtributProduk_Data
 ```
 /API/WebService.asmx?op=AtributProduk_Data
 ```
@@ -60,4 +62,29 @@ Content-Type: application/x-www-form-urlencoded
 Content-Length: length
 
 Token=string&IDWMSStore=string
+```
+
+### RESULT
+```json
+{
+  "AtributProduk": [
+    {
+      "IDAtributProduk": 1000,
+      "Nama": ""
+    },
+    {
+      "IDAtributProduk": 1001,
+      "Nama": "35"
+    },
+    {
+      "IDAtributProduk": 1089,
+      "Nama": "Merah - 40"
+    }
+  ],
+  "Result": {
+    "EnumWebService": 1,
+    "Count": 0,
+    "Pesan": ""
+  }
+}
 ```
