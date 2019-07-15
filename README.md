@@ -22,6 +22,11 @@ CAD81A2F-8A0E-44E0-91FD-3A0C1D8D7E5A
 5E3AEAA1-C632-4D59-9D5D-3F75056C9FF6
 ```
 
+### idTempat
+```
+1
+```
+
 ## EnumWebService
 ```
 Success = 1
