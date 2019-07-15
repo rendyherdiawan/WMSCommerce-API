@@ -45,7 +45,8 @@ Warna_Data
 
 Parameter | Value 
 --- | --- 
-Token | IDWMSStore
+Token | 
+IDWMSStore | 
 
 ### HTTP GET
 ```
