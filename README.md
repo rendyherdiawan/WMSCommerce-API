@@ -5,19 +5,21 @@
 /API/WebService.asmx
 ```
 
-### IDWMSStore Sandbox
+## Sandbox
+
+### Token
+```
+CAD81A2F-8A0E-44E0-91FD-3A0C1D8D7E5A
+```
+
+### IDWMSStore
 ```
 96220AC7-7CE3-41F7-A159-2E2E64A3A9BA
 ```
 
-### IDWMSTempat Sandbox
+### IDWMSTempat
 ```
 5E3AEAA1-C632-4D59-9D5D-3F75056C9FF6
-```
-
-### Token Sandbox
-```
-CAD81A2F-8A0E-44E0-91FD-3A0C1D8D7E5A
 ```
 
 ## EnumWebService
