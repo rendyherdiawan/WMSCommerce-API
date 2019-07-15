@@ -5,9 +5,14 @@
 /API/WebService.asmx
 ```
 
-### ID WMS Store Sandbox
+### IDWMSStore Sandbox
 ```
-96220ac7-7ce3-41f7-a159-2e2e64a3a9ba
+96220AC7-7CE3-41F7-A159-2E2E64A3A9BA
+```
+
+### IDWMSTempat Sandbox
+```
+5E3AEAA1-C632-4D59-9D5D-3F75056C9FF6
 ```
 
 ### Token Sandbox
@@ -64,7 +69,7 @@ Content-Length: length
 Token=string&IDWMSStore=string
 ```
 
-### RESULT
+### RESULT SUCCESS
 ```json
 {
   "AtributProduk": [
@@ -85,6 +90,18 @@ Token=string&IDWMSStore=string
     "EnumWebService": 1,
     "Count": 0,
     "Pesan": ""
+  }
+}
+```
+
+### RESULT FAILED
+```json
+{
+  "AtributProduk": null,
+  "Result": {
+    "EnumWebService": 2,
+    "Count": 0,
+    "Pesan": "Token Invalid"
   }
 }
 ```
