@@ -1,1 +1,1 @@
-# WMSCommerce-API
+# WMSCommerce Public API
