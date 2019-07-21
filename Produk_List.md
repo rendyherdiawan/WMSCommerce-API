@@ -22,6 +22,7 @@ Content-Length: length
 Token=string&IDWMSStore=string&Nama=string&KodeProduk=string
 ```
 
+### PARAMETER
 Parameter | Wajib | Keterangan 
 --- | --- | --- 
 Token | Ya | [Token Sandbox](https://github.com/rendyherdiawan/WMSCommerce-API#sandbox)
