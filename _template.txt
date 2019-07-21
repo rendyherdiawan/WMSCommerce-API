@@ -1,0 +1,26 @@
+# XXXX
+Method XXXX digunakan untuk mendapatkan ____________
+
+## Request
+
+### Url
+```
+____________
+```
+
+### HTTP GET
+```
+____________
+```
+
+### HTTP POST
+```
+____________
+```
+
+### PARAMETER
+Parameter | Wajib | Keterangan 
+--- | --- | --- 
+Token | Ya | [Token Sandbox](https://github.com/rendyherdiawan/WMSCommerce-API#sandbox)
+IDWMSStore | Ya | [IDWMSStore Sandbox](https://github.com/rendyherdiawan/WMSCommerce-API#sandbox)
+_____ | Tidak | _____
