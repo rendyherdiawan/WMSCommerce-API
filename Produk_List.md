@@ -23,6 +23,7 @@ Token=string&IDWMSStore=string&Nama=string&KodeProduk=string
 ```
 
 Parameter | Wajib | Keterangan 
+--- | --- | --- 
 Token | Ya | [Token Sandbox](https://github.com/rendyherdiawan/WMSCommerce-API#sandbox)
 IDWMSStore | Ya | [IDWMSStore Sandbox](https://github.com/rendyherdiawan/WMSCommerce-API#sandbox)
 Nama | Tidak | Keyword untuk pencarian berdasarkan Nama Produk 
