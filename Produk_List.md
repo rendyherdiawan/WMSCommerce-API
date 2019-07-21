@@ -10,15 +10,11 @@ Method Produk_List digunakan untuk mendapatkan list produk
 
 ### HTTP GET
 ```
-The following is a sample HTTP GET request and response. The placeholders shown need to be replaced with actual values.
-
 GET /API/WebService.asmx/Produk_List?Token=string&IDWMSStore=string&Nama=string&KodeProduk=string
 ```
 
 ### HTTP POST
 ```
-The following is a sample HTTP POST request and response. The placeholders shown need to be replaced with actual values.
-
 POST /API/WebService.asmx/Produk_List
 Content-Type: application/x-www-form-urlencoded
 Content-Length: length
