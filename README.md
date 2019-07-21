@@ -22,7 +22,7 @@ CAD81A2F-8A0E-44E0-91FD-3A0C1D8D7E5A
 5E3AEAA1-C632-4D59-9D5D-3F75056C9FF6
 ```
 
-### idTempat
+### IDTempat
 ```
 1
 ```
@@ -51,6 +51,11 @@ StokProduk | Menampilkan stok produk
 StokProdukTempat_Data | Menampilkan data master stok produk berdasarkan tempat
 StokProduk_Data | Menampilkan data master stok produk
 Warna_Data | Menampilkan data master warna
+
+Function | Description 
+--- | --- 
+Produk_List | Menampilkan list produk
+StokProduk_List | Menampilkan list stok produk
 
 ## Kamus Bahasa
 Istilah | Penjelasan
