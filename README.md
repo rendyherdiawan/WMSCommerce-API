@@ -37,7 +37,7 @@ NoAction = 5
 NoData = 6
 ```
 
-## API Version 1.0
+## API Version 1.0.0
 Function | Description 
 --- | --- 
 AtributProduk_Data | Menampikan data master atribut produk
@@ -52,10 +52,12 @@ StokProdukTempat_Data | Menampilkan data master stok produk berdasarkan tempat
 StokProduk_Data | Menampilkan data master stok produk
 Warna_Data | Menampilkan data master warna
 
-Function | Description 
---- | --- 
-Produk_List | Menampilkan list produk
-StokProduk_List | Menampilkan list stok produk
+## API Version 1.1.0
+
+Function | Description | Documentation
+--- | --- | --- 
+Produk_List | Menampilkan list produk | [View](https://github.com/rendyherdiawan/WMSCommerce-API/blob/master/Produk_List.md#produk_list)
+StokProduk_List | Menampilkan list stok produk | [View](https://github.com/rendyherdiawan/WMSCommerce-API/blob/master/StokProduk_List.md#stokproduk_list)
 
 ## Kamus Bahasa
 Istilah | Penjelasan
